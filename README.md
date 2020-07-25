@@ -13,7 +13,7 @@ interface ITrade
 
     string ClientSector { get; }
 }
-
+```
 Currently, there are three categories rules:
 **LOWRISK:** Trades with value less than 1,000,000 and client from Public Sector
 **MEDIUMRISK:** Trades with value greater than 1,000,000 and client from Public Sector
