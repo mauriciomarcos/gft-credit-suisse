@@ -1,6 +1,6 @@
 # gft-credit-suisse
 Repositório criado para avaliação do teste realizado a partir do desafio indicado no README.
-Foram desenvolvidas duas distintas para a resolução do problema.
+Foram desenvolvidas duas fromas distintas para a resolução do problema.
 **Resolução-01:** Criada uma estratégia utilizando condicional para resolver o problema.
 **Resolução-02:** Aplicado o Pattern Strategy para a resolução do problema.
 
